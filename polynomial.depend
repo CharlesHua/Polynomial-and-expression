@@ -1,0 +1,430 @@
+# depslib dependency file v1.0
+1488952004 source:c:\users\charles hua\desktop\polyn\main.cpp
+	<iostream>
+	"polynomial.h"
+
+1488905936 c:\users\charles hua\desktop\polyn\polynomial.h
+	<iostream>
+
+1488952054 source:c:\users\charles hua\desktop\polyn\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1488884685 c:\users\charles hua\desktop\polyn\linklist.h
+
+1488950572 c:\users\charles hua\desktop\polyn\link_list.h
+
+1489122478 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.2\main.cpp
+	<iostream>
+	"polynomial.h"
+
+1489129144 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.2\polynomial.h
+	<iostream>
+
+1489122162 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.2\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489081136 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.2\link_list.h
+
+1489139818 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.3\main.cpp
+	<iostream>
+	"polynomial.h"
+
+1489140676 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.3\polynomial.h
+	<iostream>
+
+1489140676 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.3\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489081136 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.3\link_list.h
+
+1489492157 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.4\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489492063 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.4\polynomial.h
+	<iostream>
+
+1489081136 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.4\link_list.h
+
+1489334238 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.4\main.cpp
+	<iostream>
+	"polynomial.h"
+
+1489492157 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn1.5\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489492063 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.5\polynomial.h
+	<iostream>
+
+1489585423 e:\课程资料\选修及其他类\数据结构与数据库\polyn1.5\link_list.h
+
+1489718455 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489716470 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\polynomial.h
+	<iostream>
+
+1489585423 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\link_list.h
+
+1489719453 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489719769 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\expression.h
+	<iostream>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489682094 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\link_stack.h
+	<assert.h>
+
+1489679666 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\link_stack.cpp
+	<iostream>
+	"link_stack.h"
+
+1489719454 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489719453 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.2\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489737897 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.2\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489682094 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.2\link_stack.h
+	<assert.h>
+
+1489718455 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.2\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489738911 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.2\polynomial.h
+	<iostream>
+
+1489585423 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.2\link_list.h
+
+1489719453 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489767180 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489766970 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\link_stack.h
+	<assert.h>
+
+1489718455 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+	"link_list.h"
+
+1489738911 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\polynomial.h
+	<iostream>
+
+1489585423 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\link_list.h
+
+1489766401 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr1.3\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489719453 source:c:\users\charles hua\desktop\polyn & expr 2.1\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489901920 c:\users\charles hua\desktop\polyn & expr 2.1\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489901920 c:\users\charles hua\desktop\polyn & expr 2.1\link_stack.h
+	<assert.h>
+
+1489766401 source:c:\users\charles hua\desktop\polyn & expr 2.1\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489907850 c:\users\charles hua\desktop\polyn & expr 2.1\polynomial.h
+	"link_list.h"
+
+1489903681 source:c:\users\charles hua\desktop\polyn & expr 2.1\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
+1489907026 c:\users\charles hua\desktop\polyn & expr 2.1\link_list.h
+
+1489906967 source:c:\users\charles hua\desktop\polyn & expr 2.1\link_list.cpp
+	<iostream>
+	"link_list.h"
+
+1489719453 source:c:\users\charles hua\desktop\polyn & expr 2.2\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489925329 c:\users\charles hua\desktop\polyn & expr 2.2\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489924452 c:\users\charles hua\desktop\polyn & expr 2.2\link_stack.h
+	<assert.h>
+
+1489906967 source:c:\users\charles hua\desktop\polyn & expr 2.2\link_list.cpp
+	<iostream>
+	"link_list.h"
+
+1489926250 c:\users\charles hua\desktop\polyn & expr 2.2\link_list.h
+	<assert.h>
+
+1489925285 source:c:\users\charles hua\desktop\polyn & expr 2.2\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489924998 c:\users\charles hua\desktop\polyn & expr 2.2\polynomial.h
+	"link_list.h"
+
+1489925204 source:c:\users\charles hua\desktop\polyn & expr 2.2\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
+1489719453 source:c:\users\charles hua\desktop\polyn & expr 2.3\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489925329 c:\users\charles hua\desktop\polyn & expr 2.3\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489924452 c:\users\charles hua\desktop\polyn & expr 2.3\link_stack.h
+	<assert.h>
+
+1489906967 source:c:\users\charles hua\desktop\polyn & expr 2.3\link_list.cpp
+	<iostream>
+	"link_list.h"
+
+1489928926 c:\users\charles hua\desktop\polyn & expr 2.3\link_list.h
+	<assert.h>
+
+1489925285 source:c:\users\charles hua\desktop\polyn & expr 2.3\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489929797 c:\users\charles hua\desktop\polyn & expr 2.3\polynomial.h
+	"link_list.h"
+
+1489932527 source:c:\users\charles hua\desktop\polyn & expr 2.3\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
+1489940739 source:c:\users\charles hua\desktop\polyn & expr 2.4\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489940739 c:\users\charles hua\desktop\polyn & expr 2.4\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1489940739 c:\users\charles hua\desktop\polyn & expr 2.4\link_stack.h
+	<assert.h>
+
+1489940773 source:c:\users\charles hua\desktop\polyn & expr 2.4\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489940751 c:\users\charles hua\desktop\polyn & expr 2.4\polynomial.h
+	"link_list.h"
+
+1489941535 c:\users\charles hua\desktop\polyn & expr 2.4\link_list.h
+	<assert.h>
+
+1489941466 source:c:\users\charles hua\desktop\polyn & expr 2.4\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
+1489940739 source:c:\users\charles hua\desktop\polyn & expr 2.5\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1489940739 c:\users\charles hua\desktop\polyn & expr 2.5\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1490001075 c:\users\charles hua\desktop\polyn & expr 2.5\link_stack.h
+	"cnode.h"
+	<assert.h>
+
+1489940773 source:c:\users\charles hua\desktop\polyn & expr 2.5\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1489999556 c:\users\charles hua\desktop\polyn & expr 2.5\polynomial.h
+	"link_list.h"
+
+1490001016 c:\users\charles hua\desktop\polyn & expr 2.5\link_list.h
+	"cnode.h"
+	<assert.h>
+
+1490001075 c:\users\charles hua\desktop\polyn & expr 2.5\cnode.h
+
+1489999445 source:c:\users\charles hua\desktop\polyn & expr 2.5\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
+1491788692 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1491788692 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1491788691 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\link_stack.h
+	"cnode.h"
+	<assert.h>
+
+1491788691 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\cnode.h
+
+1491312427 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
+1491821550 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\polynomial.h
+	"link_list.h"
+
+1491788691 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\link_list.h
+	"cnode.h"
+	<assert.h>
+
+1491789414 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.6\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1491788692 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\expression.cpp
+	<iostream>
+	<string.h>
+	"expression.h"
+	"link_stack.h"
+
+1491788692 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\expression.h
+	<iostream>
+	<string>
+	"link_stack.h"
+	<iostream>
+	<string.h>
+
+1491832275 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\link_stack.h
+	"cnode.h"
+	<assert.h>
+
+1491788691 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\cnode.h
+
+1491894488 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\main.cpp
+	<iostream>
+	"polynomial.h"
+	"expression.h"
+
+1491833149 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\polynomial.h
+	"link_list.h"
+
+1491832275 e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\link_list.h
+	"cnode.h"
+	<assert.h>
+
+1491833149 source:e:\课程资料\选修及其他类\数据结构与数据库\polyn & expr 2.7\polynomial.cpp
+	<iostream>
+	<assert.h>
+	<math.h>
+	"polynomial.h"
+
